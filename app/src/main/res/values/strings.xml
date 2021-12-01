@@ -1,5 +1,5 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="app_name">Do it</string>
+    <string name="app_name">云端待办事项</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Android Studio</string>
@@ -39,11 +39,11 @@
     </string>
     <string name="title_activity_basic">BasicActivity</string>
 
-    <string name="appbar_circleimageview_behavior">com.example.lulin.todolist.CircleImageInUsercBehavior</string>
-    <string name="appbar_overscroll_behavior">com.example.lulin.todolist.AppBarLayoutOverScrollViewBehavior</string>
+    <string name="appbar_circleimageview_behavior">com.example.zhenghao.todolist.CircleImageInUsercBehavior</string>
+    <string name="appbar_overscroll_behavior">com.example.zhenghao.todolist.AppBarLayoutOverScrollViewBehavior</string>
 
     <string name="about_app">欢迎使用！
-        \n\n这是一个基于Material Design规范的待办事项-番茄钟应用
+        \n\n这是一个基于Material Design规范的待办事项-云端待办事项应用
         \n\n提供待办事项、番茄时钟、白噪音、专注模式、数据同步、数据统计等功能
         \n\n为了带来更好的用户体验，整体界面基于Google最新的Material Design设计规范，简洁淡雅，富有质感。
         \n\n采用了先进的云服务器来保存您的数据，保证用户的数据信息的完整性和安全性，即使您更换手机，数据也可以同步
